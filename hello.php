@@ -6,7 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> hello world </h1>
-    <h2> Phachinburi</h2>
+  <?php
+     echo "<h1> Hello <h1><br>";
+     echo "<h2> Phachinburi <h2>"
+  ?>
+   
 </body>
 </html>
